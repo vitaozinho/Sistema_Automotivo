@@ -1,0 +1,20 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\Sistema_Automotivo\obj\x86\Debug\Sistema_Automotivo.Cadastro.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Sistema_Automotivo\obj\x86\Debug\Sistema_Automotivo.Compra.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Sistema_Automotivo\obj\x86\Debug\Sistema_Automotivo.Form1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Sistema_Automotivo\obj\x86\Debug\Sistema_Automotivo.login.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Sistema_Automotivo\obj\x86\Debug\Sistema_Automotivo.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Sistema_Automotivo\obj\x86\Debug\Sistema_Automotivo.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\Sistema_Automotivo\bin\Debug\Sistema_Automotivo.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Sistema_Automotivo\bin\Debug\Sistema_Automotivo.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\Sistema_Automotivo\obj\x86\Debug\Sistema_Automotivo.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Sistema_Automotivo\obj\x86\Debug\Sistema_Automotivo.pdb
+C:\Users\Aluno\Desktop\Sistema_Automotivo\Sistema_Automotivo\obj\x86\Debug\Sistema_Automotivo.exe
+C:\Users\Aluno\Desktop\Sistema_Automotivo\Sistema_Automotivo\obj\x86\Debug\Sistema_Automotivo.pdb
+C:\Users\Aluno\Desktop\Sistema_Automotivo\Sistema_Automotivo\bin\Debug\Sistema_Automotivo.exe
+C:\Users\Aluno\Desktop\Sistema_Automotivo\Sistema_Automotivo\bin\Debug\Sistema_Automotivo.pdb
+C:\Users\Aluno\Desktop\Sistema_Automotivo\Sistema_Automotivo\obj\x86\Debug\Sistema_Automotivo.Cadastro.resources
+C:\Users\Aluno\Desktop\Sistema_Automotivo\Sistema_Automotivo\obj\x86\Debug\Sistema_Automotivo.Compra.resources
+C:\Users\Aluno\Desktop\Sistema_Automotivo\Sistema_Automotivo\obj\x86\Debug\Sistema_Automotivo.Form1.resources
+C:\Users\Aluno\Desktop\Sistema_Automotivo\Sistema_Automotivo\obj\x86\Debug\Sistema_Automotivo.login.resources
+C:\Users\Aluno\Desktop\Sistema_Automotivo\Sistema_Automotivo\obj\x86\Debug\Sistema_Automotivo.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Sistema_Automotivo\Sistema_Automotivo\obj\x86\Debug\Sistema_Automotivo.csproj.GenerateResource.Cache

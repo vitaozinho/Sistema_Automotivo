@@ -1,0 +1,83 @@
+use master
+drop database sistemaAutomotivo
+create database sistemaAutomotivo
+use sistemaAutomotivo
+
+
+create table cliente (
+idCliente int identity (1,1) primary key,
+nmCliente varchar(250),
+cpfCliente varchar(20),
+endCliente varchar(250),
+flogin varchar(30),
+fsenha  varchar(30)
+)
+
+create table marca(
+idMarca int identity (1,1) primary key,
+nmMarca varchar (50),
+)
+
+create table modelo (
+idModelo int identity (1,1) primary key,
+nmModelo varchar(50),
+idMarca int,
+
+foreign key (idMarca) references marca(idMarca)
+)
+
+create table vendas (
+idVendas int identity (1,1) primary key,
+marca varchar(100),
+modelo varchar(100),
+cor varchar(50),
+ano varchar(10)
+
+
+)
+insert into cliente values('Vitor', '35003635800', 'Rua Jeticarana','vitor','123')
+
+insert into marca values ('Audi')
+
+insert into marca values ('BMW')
+
+insert into marca values ('Chevrolet')
+
+insert into marca values ('Fiat')
+
+insert into marca values ('Ford')
+
+insert into modelo (nmModelo, idMarca) values ('Audi A4',1)
+
+insert into modelo (nmModelo, idMarca) values ('A1 Sportback',1)
+
+insert into modelo (nmModelo, idMarca) values ('TT Coupé',1)
+
+insert into modelo (nmModelo, idMarca) values ('BMW 120i Sport',2)
+
+insert into modelo (nmModelo, idMarca) values ('BMW Série 2 Active Tourer',2)
+
+insert into modelo (nmModelo, idMarca) values ('BMW Série 4 Cabrio',2)
+
+insert into modelo (nmModelo, idMarca) values ('Onix',3)
+
+insert into modelo (nmModelo, idMarca) values ('Prisma',3)
+
+insert into modelo (nmModelo, idMarca) values ('S10',3)
+
+insert into modelo (nmModelo, idMarca) values ('Uno',4)
+
+insert into modelo (nmModelo, idMarca) values ('Grand Siena',4)
+
+insert into modelo (nmModelo, idMarca) values ('Argo',4)
+
+insert into modelo (nmModelo, idMarca) values ('EcoSport',5)
+
+insert into modelo (nmModelo, idMarca) values ('Fusion',5)
+
+insert into modelo (nmModelo, idMarca) values ('Ranger',5)
+
+
+
+
+select * from vendas

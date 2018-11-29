@@ -1,0 +1,10 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\Sistema_Automotivo\obj\x86\Release\Sistema_Automotivo.Cadastro.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Sistema_Automotivo\obj\x86\Release\Sistema_Automotivo.Compra.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Sistema_Automotivo\obj\x86\Release\Sistema_Automotivo.Form1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Sistema_Automotivo\obj\x86\Release\Sistema_Automotivo.login.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Sistema_Automotivo\obj\x86\Release\Sistema_Automotivo.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Sistema_Automotivo\obj\x86\Release\Sistema_Automotivo.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\Sistema_Automotivo\bin\Release\Sistema_Automotivo.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Sistema_Automotivo\bin\Release\Sistema_Automotivo.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\Sistema_Automotivo\obj\x86\Release\Sistema_Automotivo.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Sistema_Automotivo\obj\x86\Release\Sistema_Automotivo.pdb
